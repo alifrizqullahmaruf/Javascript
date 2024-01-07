@@ -28,13 +28,3 @@ var checkDead = setInterval(function(){
         alert("You lose.");
     }
 }, 10);
-
-
-// function jump(){
-//     if (character.classList != "animation"){
-//         character.classList.add('animation');
-//     }
-//     setTimeout(function(){
-//         character.classList.remove('animation');
-//     },500);
-// }
